@@ -1,0 +1,12 @@
+C:\Users\guigu\OneDrive\GUI\Programação\c#\Projeto SQL\Controle G+\Controle G+\bin\Debug\Controle G+.exe.config
+C:\Users\guigu\OneDrive\GUI\Programação\c#\Projeto SQL\Controle G+\Controle G+\bin\Debug\Controle G+.exe
+C:\Users\guigu\OneDrive\GUI\Programação\c#\Projeto SQL\Controle G+\Controle G+\bin\Debug\Controle G+.pdb
+C:\Users\guigu\OneDrive\GUI\Programação\c#\Projeto SQL\Controle G+\Controle G+\obj\Debug\Controle G+.csproj.AssemblyReference.cache
+C:\Users\guigu\OneDrive\GUI\Programação\c#\Projeto SQL\Controle G+\Controle G+\obj\Debug\Controle G+.csproj.SuggestedBindingRedirects.cache
+C:\Users\guigu\OneDrive\GUI\Programação\c#\Projeto SQL\Controle G+\Controle G+\obj\Debug\Controle_G_.Frm_main.resources
+C:\Users\guigu\OneDrive\GUI\Programação\c#\Projeto SQL\Controle G+\Controle G+\obj\Debug\Controle_G_.Properties.Resources.resources
+C:\Users\guigu\OneDrive\GUI\Programação\c#\Projeto SQL\Controle G+\Controle G+\obj\Debug\Controle G+.csproj.GenerateResource.cache
+C:\Users\guigu\OneDrive\GUI\Programação\c#\Projeto SQL\Controle G+\Controle G+\obj\Debug\Controle G+.csproj.CoreCompileInputs.cache
+C:\Users\guigu\OneDrive\GUI\Programação\c#\Projeto SQL\Controle G+\Controle G+\obj\Debug\Controle G+.exe
+C:\Users\guigu\OneDrive\GUI\Programação\c#\Projeto SQL\Controle G+\Controle G+\obj\Debug\Controle G+.pdb
+C:\Users\guigu\OneDrive\GUI\Programação\c#\Projeto SQL\Controle G+\Controle G+\obj\Debug\Controle_G_.Login.resources
