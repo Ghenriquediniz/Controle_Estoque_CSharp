@@ -131,7 +131,7 @@ namespace Controle_G_
             {
                 conexao = null;
                 comando = null;
-                comando.Dispose();
+                
             }
         }
 
